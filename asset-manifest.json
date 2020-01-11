@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/linguacourse-tracker/static/css/main.d1b05096.chunk.css",
+    "main.js": "/linguacourse-tracker/static/js/main.aaaa179e.chunk.js",
+    "main.js.map": "/linguacourse-tracker/static/js/main.aaaa179e.chunk.js.map",
+    "runtime-main.js": "/linguacourse-tracker/static/js/runtime-main.bbebc9af.js",
+    "runtime-main.js.map": "/linguacourse-tracker/static/js/runtime-main.bbebc9af.js.map",
+    "static/js/2.3aca2742.chunk.js": "/linguacourse-tracker/static/js/2.3aca2742.chunk.js",
+    "static/js/2.3aca2742.chunk.js.map": "/linguacourse-tracker/static/js/2.3aca2742.chunk.js.map",
+    "index.html": "/linguacourse-tracker/index.html",
+    "precache-manifest.511166ad846da346fb243b061dcd35fb.js": "/linguacourse-tracker/precache-manifest.511166ad846da346fb243b061dcd35fb.js",
+    "service-worker.js": "/linguacourse-tracker/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/linguacourse-tracker/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3aca2742.chunk.js.LICENSE": "/linguacourse-tracker/static/js/2.3aca2742.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbebc9af.js",
+    "static/js/2.3aca2742.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.aaaa179e.chunk.js"
+  ]
+}
